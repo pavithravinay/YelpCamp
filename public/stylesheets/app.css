@@ -1,0 +1,46 @@
+.newCampground {
+    margin: 30px auto;
+    width: 30%;
+}
+
+.align {
+    text-align: center;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+/*my own*/
+.indexpage-thumbnail {
+    height: 340px;
+}
+
+.indexpage-thumbnail img {
+    height: 220px;
+}
+
+.campground-name {
+    margin-bottom: 20px;
+    /*padding-bottom: 20px;*/
+    height: 30px;
+    
+}
+
+.delete-form {
+    display: inline;
+}
+
+
+
+
+
+
+
+
+
+
